@@ -1,1 +1,0 @@
-print("HEY I START MY PYTHON JOURNEY")
