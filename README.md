@@ -9,6 +9,7 @@ This repository contains my daily Python learning journey.
 - ✅ Chapter 3 - Lists & Tuples
 - ✅ Chapter 4 - Dictionary & Sets
 - ✅ Chapter 5 - Loops
+- ✅ Chapter 6 - Functiond & Recursion
 
 ## Structure
 
@@ -20,6 +21,8 @@ PYTHON-JOURNEY/
 ├── chapter_3/
 ├── chapter_4/
 └── chapter_5/
+└── chapter_6/
+
 ```
 
 I update this repository daily while learning Python.
